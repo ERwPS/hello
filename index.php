@@ -1,4 +1,1 @@
-<?php
-$t = "pow"
-echo '"boom"'. "boom" . "$t";
-?>
+<?php echo '"boom"'. "boom" . "$t"; ?>

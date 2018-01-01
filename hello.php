@@ -1,3 +1,3 @@
 <?php
-echo "boom;
+echo "boom";
 ?>
